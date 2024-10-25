@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-image: url('https://www.shutterstock.com/image-photo/moving-clouds-against-blue-sky-260nw-2456728567.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white; 
+}
+
+input, button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border: none;
+    color: black;
+}
+
+#weatherResult {
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Style for the info section */
+#infoDescription {
+    text-align: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgba
